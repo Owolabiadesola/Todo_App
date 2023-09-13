@@ -59,9 +59,9 @@ https://github.com/Owolabiadesola/Todo_App/assets/127605911/c072fd6c-7f13-4526-9
 
 # Screenshot
 
-![Todo_Img](https://github.com/Owolabiadesola/Todo_App/assets/127605911/b6aed542-0563-49b5-b6e1-cc46182c0805)
-
 ![TodoImg](https://github.com/Owolabiadesola/Todo_App/assets/127605911/18986ea1-9940-418f-88b7-d1901a2d273a)
+
+![Todo_Img](https://github.com/Owolabiadesola/Todo_App/assets/127605911/b6aed542-0563-49b5-b6e1-cc46182c0805)
 
 
 # Key learning
