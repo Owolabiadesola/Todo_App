@@ -1,5 +1,4 @@
 
-https://github.com/Owolabiadesola/Todo_App/assets/127605911/d8bcd7f9-2715-4d57-842a-379e685302c2
 # Todo App
 
 A colorful, responsive and funtional Todo App
